@@ -1,0 +1,7 @@
+descartes
+geopandas
+jupyter
+matplotlib
+numpy
+pandas
+pyspark
