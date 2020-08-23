@@ -17,6 +17,7 @@ print(str2)
 
 # ... without the whitespaces
 str3 = str1.split(', ')
+print(str3)
 # or
 str3 = [x.strip() for x in str1.split(',')]
 print(str3)
